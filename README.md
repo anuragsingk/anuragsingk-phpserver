@@ -48,4 +48,4 @@ All commands can be executed by pressing `CTRL + SHIFT + P` and typing the name 
 
 ## Author
 
-[Brais Piñeiro](http://github.com/brapifra)
+[anuragsingk](http://github.com/anuragsingk)
