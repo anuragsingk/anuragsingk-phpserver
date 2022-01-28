@@ -1,9 +1,9 @@
 {
-  "name": "phpserver",
-  "displayName": "PHP Server",
+  "name": "Anuragsingk : phpserver",
+  "displayName": "Anuragsingk : PHP Server",
   "description": "Serve your Project with PHP",
   "version": "3.0.2",
-  "publisher": "brapifra",
+  "publisher": "Anuragsingk",
   "engines": {
     "vscode": "^1.32.0"
   },
@@ -25,7 +25,7 @@
   "main": "./out/extension",
   "repository": {
     "type": "git",
-    "url": "https://github.com/brapifra/vscode-phpserver.git"
+    "url": "https://github.com/anuragsingk/anuragsingk-phpserver"
   },
   "contributes": {
     "commands": [
